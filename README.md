@@ -31,6 +31,7 @@ sine-model-web/
 │
 ├── templates/
 │   └── index.html             # Web page
+|
 ├── screenshots/
 │   └── image.png
 │
