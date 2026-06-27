@@ -50,7 +50,7 @@ sine-model-web/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/sine-model-web.git
+git clone https://github.com/rbalaji-2007/sine-model-web.git
 cd sine-model-web
 ```
 
